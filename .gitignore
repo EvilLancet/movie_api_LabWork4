@@ -1,0 +1,10 @@
+
+
+.dd/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+*.ipynb
+*.bak
+
